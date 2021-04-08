@@ -22,3 +22,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Temporales de office 
+
+~$*.xlsx
+~$*.docx
